@@ -133,5 +133,10 @@
 		"author": "William Shakespeare",
 		"text": "Cowards die many times before their deaths; the valiant never taste of death but once.",
 		"source": "Julius Caesar, Act II Scene II"
+	},
+	{
+		"author": "Plato",
+		"text": "Rhetoric is the art of persuasion which produces belief, not knowledge.",
+		"source": "Gorgias"
 	}
 ]
